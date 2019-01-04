@@ -1,22 +1,13 @@
-Example Spring Boot Application with Angular 2 frontend.
-Project incorporates:
-* Spring Security authorization and authentication with OAuth 2 tokens
-* Postgres Database
+# Bus Reservation System
+## http://rezerwacja.busnow.pl
+
+#### Technologies used in project:
+* Spring Security authorization
+* PostgresSQL
 * Spring Data
 * PDF Generation
-* Simple Captcha during registration
+* Captcha
 * E-mail confirmation
-* Single Page Application Angular 2 frontend 
+* Single Page Application - Angular
 * Simple REST Api
 
-How to run:
-1. Build front-end
-
-* Go to src/main/resources/frontend
-
-* Run command
-
-    ```npm run dist```
-2. Run spring 
-
-    ```./mvnw spring-boot:run```
