@@ -1,5 +1,5 @@
 # Bus Reservation System
-## http://rezerwacja.busnow.pl
+### http://rezerwacja.busnow.pl
 
 #### Technologies used in project:
 * Spring Security authorization
